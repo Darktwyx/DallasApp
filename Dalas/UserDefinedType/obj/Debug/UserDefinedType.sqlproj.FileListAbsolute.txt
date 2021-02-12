@@ -1,0 +1,11 @@
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\Dalas\UserDefinedType\bin\Debug\UserDefinedType.dacpac
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\Dalas\UserDefinedType\bin\Debug\UserDefinedType.dll
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\Dalas\UserDefinedType\bin\Debug\UserDefinedType.pdb
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\Dalas\UserDefinedType\obj\Debug\UserDefinedType.sqlprojAssemblyReference.cache
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\Dalas\UserDefinedType\obj\Debug\UserDefinedType.dll
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\Dalas\UserDefinedType\obj\Debug\UserDefinedType.pdb
+C:\Users\Pedja\Desktop\BazeNovo\Dalas\UserDefinedType\bin\Debug\UserDefinedType.dacpac
+C:\Users\Pedja\Desktop\BazeNovo\Dalas\UserDefinedType\bin\Debug\UserDefinedType.dll
+C:\Users\Pedja\Desktop\BazeNovo\Dalas\UserDefinedType\bin\Debug\UserDefinedType.pdb
+C:\Users\Pedja\Desktop\BazeNovo\Dalas\UserDefinedType\obj\Debug\UserDefinedType.dll
+C:\Users\Pedja\Desktop\BazeNovo\Dalas\UserDefinedType\obj\Debug\UserDefinedType.pdb

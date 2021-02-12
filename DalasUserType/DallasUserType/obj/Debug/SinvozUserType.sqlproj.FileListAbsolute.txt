@@ -1,0 +1,5 @@
+C:\Users\ARSA\Desktop\BB\Baze2\Alex\SinvozUserType\SinvozUserType\bin\Debug\SinvozUserType.dacpac
+C:\Users\ARSA\Desktop\BB\Baze2\Alex\SinvozUserType\SinvozUserType\bin\Debug\SinvozUserType.dll
+C:\Users\ARSA\Desktop\BB\Baze2\Alex\SinvozUserType\SinvozUserType\bin\Debug\SinvozUserType.pdb
+C:\Users\ARSA\Desktop\BB\Baze2\Alex\SinvozUserType\SinvozUserType\obj\Debug\SinvozUserType.dll
+C:\Users\ARSA\Desktop\BB\Baze2\Alex\SinvozUserType\SinvozUserType\obj\Debug\SinvozUserType.pdb

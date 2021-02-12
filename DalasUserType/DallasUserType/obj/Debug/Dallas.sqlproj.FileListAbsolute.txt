@@ -1,0 +1,9 @@
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\DalasUserType\SinvozUserType\bin\Debug\Dallas.dacpac
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\DalasUserType\SinvozUserType\bin\Debug\SinvozUserType.dll
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\DalasUserType\SinvozUserType\bin\Debug\SinvozUserType.pdb
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\DalasUserType\SinvozUserType\obj\Debug\Model.xml
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\DalasUserType\SinvozUserType\obj\Debug\refactor.xml
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\DalasUserType\SinvozUserType\obj\Debug\postdeploy.sql
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\DalasUserType\SinvozUserType\obj\Debug\predeploy.sql
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\DalasUserType\SinvozUserType\obj\Debug\SinvozUserType.dll
+C:\Users\ARSA\Desktop\BB\Baze2\Predrag\DalasUserType\SinvozUserType\obj\Debug\SinvozUserType.pdb
